@@ -1,3 +1,4 @@
 # moneyapp
 
-git 에 repository 생성
+Requiremetns 
+- Java 7
